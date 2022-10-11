@@ -1,0 +1,77 @@
+header {
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    top: 0px;
+    background-color: #4f5f76;
+}
+.carlogo {
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+aside {
+    position: absolute;
+    height: 100%;
+    width: 200px;
+    top: 105px;
+    background-color: #0f2862;
+    color: #9e363a;
+    border: 1px solid;
+}
+.delivery {
+    height: 100px;
+    width: 180px;
+    border: dotted;
+
+}
+main {
+    position: absolute;
+    top: 105px;
+    left: 225px;
+    padding-left: 10px;
+    background-color: #4f5f76;
+    width: 1460px;
+    height: 750px;
+
+}
+.fancy {
+    height: 100px;
+    width: 250px;
+}
+h2 {
+    background-color: #0f2862;
+    color: #9e363a;
+    padding: 5px;
+
+}
+.classcar {
+    height: 90px;
+    width: 150px;
+}
+.convertcar {
+    height: 80px;
+    width: 200px;
+}
+.vw {
+    height: 80px;
+    width: 160px;
+}
+
+footer:link {
+    color: #9e363a;
+}
+footer:visited {
+    color: #51e2f5;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    background-color: orangered;
+    padding: 10px;
+}

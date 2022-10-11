@@ -1,0 +1,26 @@
+a {
+    display: block;
+    width: 100px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #98bf21;
+    text-align: left;
+    padding: 4px;
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+.completed {
+    background-color: green;
+}
+.inprogess {
+    background-color: yellow;
+}
+.tbd {
+    background-color: red;
+}
+#desc {
+    font-size: 20px;
+    color: red;
+}
