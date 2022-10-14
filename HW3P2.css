@@ -1,0 +1,13 @@
+* {
+    background-color: teal;
+}
+img {
+    height: 250px;
+    width: 250px;
+}
+link:hover {
+    color: orangered;
+}
+link:visited {
+    color: purple;
+}
