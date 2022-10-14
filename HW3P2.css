@@ -1,7 +1,7 @@
 * {
     background-color: teal;
 }
-img {
+img.course {
     height: 250px;
     width: 250px;
 }
@@ -10,4 +10,11 @@ link:hover {
 }
 link:visited {
     color: purple;
+}
+h1 {
+    color: salmon;
+}
+img.me {
+    height: 450px;
+    width: 300px;
 }
